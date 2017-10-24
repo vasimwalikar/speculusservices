@@ -66,7 +66,8 @@ $(function($) {
     
         //  TEXT ROTATOR
             $(".typed").typed({
-              strings: ["digital creative <strong>agency</strong>", "we design <strong>websites</strong>", "we develop <strong>websites</strong>"],
+              strings: ["3D print your <strong>Photograph</strong>", "3D print your <strong> 3D model</strong>", "3D print your <strong>Digital Mockup</strong>","3D print your <strong>Physical mockup</strong>"],
+              strings: ["3D print your <strong>Photograph</strong>", "3D print your <strong> 3D model</strong>", "3D print your <strong>Digital Mockup</strong>","3D print your <strong>Physical mockup</strong>"],
               typeSpeed: 100,
               loop: true
             });

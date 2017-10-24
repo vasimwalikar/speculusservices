@@ -7,7 +7,7 @@
  **************************************
  */
 
-$to = 'vasim@freenet.zone';
+$to = 'girish@speculusservices.com';
 
 $siteName = "http://speculusservices.com";
 

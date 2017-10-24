@@ -48,7 +48,7 @@ h1,h2,h3,h4,h5,h6{
     line-height: 30px;
     margin-top: 0;
     margin-bottom: 0;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     font-family: 'Raleway', sans-serif;
     letter-spacing: 2px;
 
@@ -106,7 +106,7 @@ a:focus{
     outline: 0 none;
 }
 .section-padding{
-    padding-top: 90px;
+    padding-top: 40px;
 }
 .m-top-10{
     margin-top: 10px;
@@ -314,8 +314,9 @@ a:focus{
     padding: 18px 15px;
 }
 .logo{
-    width: 80px;
+    width: 90px;
     height: auto;
+    margin-top: -15px;
 }
 .navbar-default{
     background: transparent;
@@ -569,8 +570,8 @@ nav.navbar-fixed-top{
     padding-bottom: 200px;
 }
 .extra-large-padding{
-    padding-top: 250px;
-    padding-bottom: 210px;
+    padding-top: 280px;
+    padding-bottom: 280px;
 }
 #register-form {
     background-color: #333;
@@ -1436,7 +1437,7 @@ a.side-menu-button {
 * -------------------------------------------------------------
 */
 .single-add span {
-    font-size: 55px;
+    font-size: 45px;
     float: left;
     color: #00c1f0;
 }

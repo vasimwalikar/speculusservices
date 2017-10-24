@@ -223,9 +223,9 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #0d0d17;
+    color: #0058a5;
     margin-top: 0;
-    text-rendering: optimizeLegibility
+    /*text-rendering: optimizeLegibility*/
 }
 
 h1 {
